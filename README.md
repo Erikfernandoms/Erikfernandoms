@@ -15,7 +15,6 @@
   <img align="center" alt="Erik-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Erik-SQLServer" height="20" width="120" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   <img align="center" alt="Erik-AWS" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png">
-  <img align="right" alt="Erik-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/562012581074698241/1077584284975648768/Icon.png?width=702&height=702">
 </div>
   
   ## My social networks:
